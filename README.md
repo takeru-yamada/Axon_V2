@@ -42,10 +42,4 @@ and task complexity, along with a real-time confidence rating.
 - **AI:** Google Gemini (gemini-2.5-flash) via `google-generativeai`
 - **Quantum Simulation:** Qiskit + Qiskit Aer
 - **Styling:** Custom CSS, animated SVG/Canvas elements
-
-## Setup
-
-1. Clone this repo
-2. Install dependencies: `pip install -r requirements.txt`
-3. Add your Gemini API keys to `.streamlit/secrets.toml` (see `secrets.toml.example`)
-4. Run: `streamlit run app.py`
+ Website link = https://axonv2-52pspwxta4h3qdgnzvqb2w.streamlit.app/
